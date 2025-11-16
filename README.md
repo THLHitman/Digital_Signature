@@ -311,11 +311,3 @@ Trang cho phép xem chi tiết private key (được bảo vệ và chỉ xem kh
 
 <img src="./picture/image11.jpg">
 
-## 👥 Tác giả
-
-- **Kacnhou2420** - *Initial work* - [GitHub Profile](https://github.com/kanchou2420)
-
-
-**Liên hệ**: [0966826423]  
-**Facebook**: [https://www.facebook.com/loi.hien.thi.579358?locale=vi_VN]  
-**Gmail**: [hanh64723@gmail.com]
